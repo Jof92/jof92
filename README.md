@@ -12,7 +12,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/js.frota) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jof-frota) 
 
-#### <a href="https://personal-portfolio-seven-omega.vercel.app/"> Visit my Portfolio's page here </a> <br><br> </div>
+#### <a href="https://frota-portfolio.vercel.app/#"> Visit my Portfolio's page here </a> <br><br> </div>
 
 ## 💻 Tech Stack:<br>
 
