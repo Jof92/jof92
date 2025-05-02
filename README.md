@@ -4,7 +4,7 @@
 <img src="https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif" width="200px" align="right">
 
 ## 💫 About Me:
-👨‍🎓    Graduated in Business administration and<br>      studying Systems Analysis and Development.<br>🔭 I’m looking for an opportunity in the frontend area.<br>👯 I’m looking to collaborate on JavaScript, CSS, HTML, Java.<br>🌱 I’m currently learning C++ and Algorithmic logic.<br>💬 Ask me about anything.<br><br>
+👨‍🎓    Graduated in Systems Analysis and Development <br>      and Business administration.<br>🔭 I’m looking for an opportunity in the frontend area.<br>👯 I’m looking to collaborate on JavaScript, CSS, HTML, Java.<br>🌱 I’m currently learning C++ and Algorithmic logic.<br>💬 Ask me about anything.<br><br>
 
 ## 🌐 Socials:<br>
 
